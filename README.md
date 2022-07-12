@@ -1,5 +1,14 @@
 # Kilian J. Halwachs
 
+ * Co-Owner of [WebXIO](https://github.com/webxio) -> currently working on http://www.webxio.at/
+ * Team leader of [A2PD] https://github.com/a2pd)
+ 
+## Current Projects
+
+ * currently working on an add-on for Kodi, that allows the user to watch movies from every major streaming service without having to open each app separately
+ * rocket project in cooperation with the team ASTG
+ * personal homepage development for WebXIO
+ 
 ### The technologies I use:
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
