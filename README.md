@@ -1,7 +1,7 @@
 # Kilian J. Halwachs
 
  * Co-Owner of [WebXIO](https://github.com/webxio) -> currently working on http://www.webxio.at/
- * Team leader of [A2PD] https://github.com/a2pd)
+ * Team leader of [A2PD](https://github.com/a2pd)
  
 ## Current Projects
 
