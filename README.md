@@ -35,5 +35,5 @@
 ### My stats: 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k05j&count_private=true&show_icons=true))
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k05j)](https://github.com/k05j)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k05j&layout=compact)](https://github.com/k05j)
 
