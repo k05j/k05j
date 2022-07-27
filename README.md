@@ -6,7 +6,7 @@
 ## My work:
 
  * student at [HTBLuVA Pinkafeld in the IT-Department](https://htlpinkafeld.at/informatik/)
- * currently working at [Seadev Studios](https://www.seadev-studios.com/) as a software-developer
+ * currently working at [Seadev Studios](https://www.seadev-studios.com/) as a software-engineer
  
 ## Current personal projects
 
