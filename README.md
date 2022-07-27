@@ -5,7 +5,6 @@
  
 ## Current Projects
 
- * currently working on an add-on for Kodi, that allows the user to watch movies from every major streaming service without having to open each app separately
  * rocket project in cooperation with the team ASTG
  * personal homepage development for WebXIO
  
