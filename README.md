@@ -3,7 +3,12 @@
  * Co-Owner of [WebXIO](https://github.com/webxio) -> currently working on http://www.webxio.at/
  * Team leader of [A2PD](https://github.com/a2pd)
  
-## Current Projects
+## My work:
+
+ * student at [HTBLuVA Pinkafeld in the IT-Department](https://htlpinkafeld.at/informatik/)
+ * currently working at [Seadev Studios](https://www.seadev-studios.com/) as a software-developer
+ 
+## Current personal projects
 
  * rocket project in cooperation with the team ASTG
  * personal homepage development for WebXIO
