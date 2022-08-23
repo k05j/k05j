@@ -11,7 +11,7 @@
 ## Current personal projects
 
  * rocket project in cooperation with the team ASTG
- * personal homepage development for WebXIO
+ * management of WebXIO
  
 ### The technologies I use:
 
