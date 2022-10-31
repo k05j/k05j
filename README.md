@@ -1,12 +1,12 @@
 # Kilian J. Halwachs
 
- * Co-Owner of [WebXIO](https://github.com/webxio) -> currently working on https://webxio.at/
+ * Co-Owner of [WebXIO](https://github.com/webxio) -> Homepage: https://webxio.at/
  * Team leader of [A2PD](https://github.com/a2pd)
  
 ## My work:
 
  * student at [HTBLuVA Pinkafeld in the IT-Department](https://htlpinkafeld.at/informatik/)
- * currently working at [Seadev Studios](https://www.seadev-studios.com/) as a software-engineer
+ * working at [Seadev Studios](https://www.seadev-studios.com/) as a software-engineer
  
 ## Current personal projects
 
@@ -34,10 +34,4 @@
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-
-### My stats: 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=k05j&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k05j&layout=compact)](https://github.com/k05j)
 
