@@ -1,5 +1,5 @@
 # Kilian J. Halwachs
-### My work/educations:
+### My work/education:
 
  * student at [Hochschule Campus Wien - Computer Science and Digital Communications](https://www.hcw.ac.at/studium-weiterbildung/studienangebot/computer-science-and-digital-communications-vollzeit)
  * working at [Seadev Studios](https://www.seadev-studios.com/) as a fullstack software-engineer
