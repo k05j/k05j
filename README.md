@@ -8,6 +8,7 @@
 * graduated at [HTBLuVA Pinkafeld in the IT-Department](https://htlpinkafeld.at/informatik/)
 
 ---
+
 ### Used technologies:
 
 #### low level
