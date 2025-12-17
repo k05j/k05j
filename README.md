@@ -12,9 +12,6 @@ Undergraduate at [Hochschule Campus Wien](https://www.hcw.ac.at/studium-weiterbi
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=k05j&theme=dark&hide_border=false)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=k05j&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
