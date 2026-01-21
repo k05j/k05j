@@ -1,6 +1,6 @@
 ## Hi, I'm Kilian
 
-Undergraduate at [Hochschule Campus Wien](https://www.hcw.ac.at/studium-weiterbildung/studienangebot/computer-science-and-digital-communications-vollzeit) studying _"Computer Science and Digital Communications"_.<br>Part-time Full‑Stack Software Engineer at [SEADEV Studios GmbH](https://seadev-studios.com), building scalable web apps and services.
+Undergraduate at [Hochschule Campus Wien](https://www.hcw.ac.at/studium-weiterbildung/studienangebot/computer-science-and-digital-communications-vollzeit) studying _Computer Science and Digital Communications_.<br>Part-time Full‑Stack Software Engineer at [SEADEV Studios GmbH](https://seadev-studios.com), building scalable web apps and services.
 
 
 ## 🌐 Socials:
