@@ -4,7 +4,7 @@ Undergraduate at [Hochschule Campus Wien](https://www.hcw.ac.at/studium-weiterbi
 
 
 ## 🌐 Socials:
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kilian.j.2005)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@kilian-h)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kilian-halwachs-2285412b8/)
 
 # 💻 Tech Stack:
